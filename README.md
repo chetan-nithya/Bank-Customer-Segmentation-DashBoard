@@ -21,7 +21,7 @@ Key Metrics
 * Average balance varies across different age groups
 * Transaction Analytics Dashboard
 
-# The second dashboard focuses on analyzing customer transaction behavior.
+The second dashboard focuses on analyzing customer transaction behavior.
 # Key Metrics
 * Total Transactions: 1M
 * Total Customers: 880K
